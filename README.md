@@ -7,6 +7,16 @@ A aplicação tem como objetivo principal gerenciar a reserva de salas e computa
 
 ---
 
+## 📅 Cronograma (Equipe 1)
+
+| Data | Horário | Marco do Projeto |
+| :--- | :--- | :--- |
+| **28/Abr (Terça)** | **15:00** | **Primeira Entrega**: Apresentação dos Cenários. |
+| **19/Mai (Terça)** | **15:00** | **Segunda Entrega**: Backend + Testes. |
+| **11/Jun (Quinta)** | **13:00** | **Apresentação Final**: Sistema em funcionamento e execução dos testes. |
+
+---
+
 ## 🛠 Stack Tecnológica
 
 O projeto foi construído utilizando tecnologias modernas para garantir escalabilidade e simplicidade:
