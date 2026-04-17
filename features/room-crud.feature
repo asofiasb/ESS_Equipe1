@@ -38,3 +38,4 @@ When eu seleciono a opção “cadastrar sala”
 And tento cadastrar a sala “D005” com capacidade “80”, descrição com “sala de reunião”, número de computadores “30” e status de manutenção “Não”
 Then eu recebo uma mensagem de erro informando que a sala “D005” já existe
 And eu continuo na tela com o formulário de cadastro de sala 
+And a tela do formulário de cadastro está com todos os campos vazios
