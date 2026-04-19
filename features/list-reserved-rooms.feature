@@ -13,3 +13,9 @@ Cenário 3: Remoção de reserva pendente a partir da listagem
 O usuário clica em "Remover" em uma reserva pendente. O sistema
 pede confirmação e, após confirmação, remove a reserva da listagem.
 Botão desabilitado para outros status.
+
+Cenário 4: Ordenação padrão e exibição de informações completas
+O usuário acessa a listagem sem nenhum filtro. O sistema exibe 
+todas as reservas dele, ordenadas *da mais recente para a mais
+antiga *, com as informações: nome da sala, data, hora início/fim, 
+status e (quando houver) número de computadores reservados.
