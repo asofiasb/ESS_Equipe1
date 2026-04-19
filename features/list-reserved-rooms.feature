@@ -19,3 +19,4 @@ O usuário acessa a listagem sem nenhum filtro. O sistema exibe
 todas as reservas dele, ordenadas *da mais recente para a mais
 antiga *, com as informações: nome da sala, data, hora início/fim, 
 status e (quando houver) número de computadores reservados.
+
